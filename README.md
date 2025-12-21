@@ -5,12 +5,12 @@
 🤝 I’m looking to collaborate on **student projects, open-source contributions, and full-stack apps**  
 🧠 I’m learning **Next.js, TypeScript, REST APIs, Supabase, and Cloud tools**  
 💬 Ask me about **Java, JavaScript, Firebase, chat applications, and automation projects**  
-⚡ Fun fact: I believe **learning + consistency = success 🚀**
+⚡ I believe **learning + consistency = success 🚀**
 
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=link)](www.linkedin.com/in/selvarathinam-g-66863b298)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
 
