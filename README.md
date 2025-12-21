@@ -21,6 +21,9 @@
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ||
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
@@ -29,13 +32,12 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ||
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ||
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ||
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-teal?logo=netlify)
