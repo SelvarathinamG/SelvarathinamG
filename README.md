@@ -11,13 +11,9 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvarathinam-g-66863b298)
-
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rg300071@gmail.com)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Selvararhinam/)
-
 [![SkillRack](https://img.shields.io/badge/SkillRack-blue)](http://www.skillrack.com/profile/465187/f290ec43c162f8d4cb1bdb3afa466387abf9b1f4)
-
 
 ---
 
@@ -63,9 +59,14 @@
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelvarathinamG&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SelvarathinamG&theme=radical" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelvarathinamG&layout=compact&theme=radical" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
