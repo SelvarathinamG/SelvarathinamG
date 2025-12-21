@@ -77,5 +77,10 @@
   />
 </p>
 
+<div align="center">
+  <img src="https://github.com/SelvarathinamG/SelvarathinamG/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+
 
 
