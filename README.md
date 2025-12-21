@@ -81,6 +81,9 @@
   <img src="https://github.com/SelvarathinamG/SelvarathinamG/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
+
+---
+##✍️ Random Dev Quote
 <div align="center">
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
