@@ -10,28 +10,33 @@
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=link)](www.linkedin.com/in/selvarathinam-g-66863b298)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvarathinam-g-66863b298)
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rg300071@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Selvararhinam/)
+
+[![SkillRack](https://img.shields.io/badge/SkillRack-blue)](http://www.skillrack.com/profile/465187/f290ec43c162f8d4cb1bdb3afa466387abf9b1f4)
+
 
 ---
 
 ### 🧰 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ||
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
-![React](https://img.shields.io/badge/React-blue?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-blue?logo=react)
 ||
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ||
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
@@ -42,8 +47,8 @@
 ||
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
 ![Cisco](https://img.shields.io/badge/Cisco-blue?logo=cisco)
 ||
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
