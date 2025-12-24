@@ -21,7 +21,7 @@
       </a>
     </td>
     <td align="center" width="120">
-      <a href="mailto:rg300071@gmail.com">
+      <a href="mailto:selvarathinamganapathi@gmail.com">
         <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/><br/>
         <b>Email</b>
       </a>
