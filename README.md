@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://leetcode.com/u/Selvararhinam/">
+      <a href="https://leetcode.com/u/Selvarathinam2005/">
         <img src="https://cdn.simpleicons.org/leetcode/000000" width="45"/><br/>
         <b>LeetCode</b>
       </a>
