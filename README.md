@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Selvarathinam%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,11,20&height=160&section=header&text=Selvarathinam%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=580&lines=Building+AI-Powered+Web+Applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 
 </div>
 # 👋 About Me:
