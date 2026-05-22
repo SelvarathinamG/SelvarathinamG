@@ -101,11 +101,6 @@
 ---
 # 🔝 Top Contributed Repo
 
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=SelvarathinamG&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-  />
-</p>
 
 <div align="center">
   <img src="https://github.com/SelvarathinamG/SelvarathinamG/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
