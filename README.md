@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Selvarathinam%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=40" />
+
+</div>
 # 👋 About Me:
 
 🙋‍♂️ I'm **Selvarathinam G**, a **B.Tech IT student** passionate about technology  
@@ -115,5 +120,9 @@
 </div>
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
 
